@@ -1,0 +1,32 @@
+python 
+
+ comment -- in programming whenever programmer want to give information about the source of return by him /her then he uses the comment to do so . comment is a simple text which gives information about the source code whenever compilers and counter comment it simply ignore the text return after words. 
+ 
+
+-- it is classified into two categories 
+single line comment ---> # 
+
+multi line comment --> ''' 
+
+  
+function --
+function is a reusable block of code which is defined  to perform a specific task
+it is classified as 
+1. pre defined (build in)function 
+2. user defined 
+
+type it return type of object 
+
+ ------------------------------------------------------------*****-----------------------------------------------------------------------
+# variables and datatype
+e-commerce application
+payroll application 
+youtube , WMP
+
+variable ---- in any programing language we want to process our data so this data must be stored somewhere in main memory so our CPU enable to process them with the help of variables we can takes access of this memory and 	the data stored there . (not an definition just an introduction) 
+
+variable = it is a reference to a memory location where our object(data) is stored.
+           with the help of variable we can take access of that data element (object)
+
+#output (print)
+# input function 
